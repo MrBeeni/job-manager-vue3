@@ -21,7 +21,7 @@ npm run dev
 npm run build
 ```
 
-### For jsonserver 
+### Run jsonserver for mock data
 
 ```sh
 npm run server
