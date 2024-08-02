@@ -1,9 +1,8 @@
 
-## Customize configuration
+## Developer Guide
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Project Local Setup
 
 ```sh
 npm install
