@@ -27,4 +27,4 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-config.bat
+.env
